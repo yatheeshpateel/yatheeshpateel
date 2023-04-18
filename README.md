@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm YATHEESH PATEEL KG</h1>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif
-">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/man-working-computer-cartoon-vector-illustration-people-technology-concept-isolated-vector-flat-cartoon-style_138676-2024.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatheeshpateel&label=Profile%20views&color=0e75b6&style=flat" alt="yatheeshpateel" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yatheesh_pateel" target="blank"><img src="https://img.shields.io/twitter/follow/yatheesh_pateel?logo=twitter&style=for-the-badge" alt="yatheesh_pateel" /></a> </p>
