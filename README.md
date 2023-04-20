@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/yatheesh_pateel" target="blank"><img src="https://img.shields.io/twitter/follow/yatheesh_pateel?logo=twitter&style=for-the-badge" alt="yatheesh_pateel" /></a> </p>
 
-- 🌱 I’m currently learning **THIRD YEAR COMPUTER SCIENCE ENGINEERING**
+- 🌱 I’m currently learning **Third year Computer Science Engineering**
 
-- 💬 Ask me about **PYTHON,DATA STRUCTURE,DBMS,SQL,MACHINE LEARNING**
+- 💬 Ask me about **Python,Data Structure,DBMS,SQL,Machine Learning**
 
 - 📫 How to reach me **yatheeshpateelkg28@gmail.com**
 
