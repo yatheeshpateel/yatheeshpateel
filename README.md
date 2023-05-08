@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/yatheesh_pateel" target="blank"><img src="https://img.shields.io/twitter/follow/yatheesh_pateel?logo=twitter&style=for-the-badge" alt="yatheesh_pateel" /></a> </p>
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **ENGINEERING**
 
 - 💬 Ask me about **Python,Data Structure,DBMS,SQL,Machine Learning**
 
